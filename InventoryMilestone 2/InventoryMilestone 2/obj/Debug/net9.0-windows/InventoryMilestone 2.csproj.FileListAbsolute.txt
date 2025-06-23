@@ -1,0 +1,16 @@
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone_2.Form1.resources
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.csproj.GenerateResource.cache
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.AssemblyInfoInputs.cache
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.AssemblyInfo.cs
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.csproj.CoreCompileInputs.cache
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\bin\Debug\net9.0-windows\InventoryMilestone 2.exe
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\bin\Debug\net9.0-windows\InventoryMilestone 2.deps.json
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\bin\Debug\net9.0-windows\InventoryMilestone 2.runtimeconfig.json
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\bin\Debug\net9.0-windows\InventoryMilestone 2.dll
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\bin\Debug\net9.0-windows\InventoryMilestone 2.pdb
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.dll
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\refint\InventoryMilestone 2.dll
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.pdb
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\InventoryMilestone 2.genruntimeconfig.cache
+C:\Users\Zachary Scharton\source\repos\InventoryMilestone 2\InventoryMilestone 2\obj\Debug\net9.0-windows\ref\InventoryMilestone 2.dll
